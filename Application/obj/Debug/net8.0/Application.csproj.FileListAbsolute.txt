@@ -1,0 +1,99 @@
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\appsettings.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Application.exe
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Application.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Service.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Service.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\Dapper.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\appsettings.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Application.exe
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Application.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Dapper.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Service.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Service.pdb
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\francisco.erabelo\OneDrive\DDD PROJETO 17.01.2024\Application\obj\Debug\net8.0\Application.sourcelink.json

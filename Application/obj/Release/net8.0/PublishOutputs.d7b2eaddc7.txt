@@ -1,0 +1,17 @@
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Application.exe
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Application.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Application.deps.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Application.runtimeconfig.json
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Application.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Domain.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Infrastructure.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Service.dll
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Domain.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Service.pdb
+C:\Users\israel.mdamasceno\source\repos\Application\Application\obj\Release\net8.0\PubTmp\Out\Infrastructure.pdb
